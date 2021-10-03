@@ -12,12 +12,12 @@ latex:
         targetname: principles.tex
         
 # Repo information
-# repository:
-#     url: github URL
-#     path_to_book: content (where book is located in repo root)
-#     branch: main (which branch is used) 
+repository:
+    url: github.com/conorkeogh/mrcs_principles
+    path_to_book: content
+    branch: main
 
 # GitHub buttons
-#html:
-#    use_issues_button: true
-#    use_repository_button: true
+html:
+    use_issues_button: true
+    use_repository_button: true

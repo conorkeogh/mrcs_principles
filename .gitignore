@@ -5,3 +5,6 @@ todo.txt
 
 # Ignore notebook checkpoints
 .ipynb_checkpoints
+
+# Ignore build files
+_build/*
