@@ -1,0 +1,11 @@
+# Table of contents
+
+format: jb-book
+root: 00_introduction
+chapters:
+- file: 01_organisation
+- file: 02_vasculature
+- file: 03_CSF
+- file: 04_anterior_middle_fossae
+- file: 05_post_fossa
+- file: 06_spine

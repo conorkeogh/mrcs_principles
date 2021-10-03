@@ -1,0 +1,23 @@
+# Publishing settings
+
+title: Principles of neurosurgical science
+author: Conor Keogh
+# logo: get logo?
+
+execute:
+    execute_notebooks: force
+    
+latex:
+    latex_documents:
+        targetname: principles.tex
+        
+# Repo information
+# repository:
+#     url: github URL
+#     path_to_book: content (where book is located in repo root)
+#     branch: main (which branch is used) 
+
+# GitHub buttons
+#html:
+#    use_issues_button: true
+#    use_repository_button: true

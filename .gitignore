@@ -2,3 +2,6 @@
 
 # Ignore local todo list
 todo.txt
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints

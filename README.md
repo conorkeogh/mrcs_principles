@@ -10,9 +10,9 @@ Notes on the principles of neurosurgical science for the MRCS exam. These aim to
 The notes are organised into six modules with the following structure:
 - Organisation of the nervous system
 - Neurovascular anatomy and stroke
-- Cerebrospinal fluid circulation and management of intracranial pressure
+- Cerebrospinal fluid circulation and venous sinuses
 - Anterior and middle cranial fossae
-- Posterior cranial fossa and venous sinuses
+- Posterior cranial fossa and cerebellum
 - Spinal anatomy and spinal cord injury
 
 ## Implementation
